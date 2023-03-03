@@ -30,6 +30,6 @@ www.patika.dev
 
 ---
 
-[Patika.dev Profilimi Görmek için Tıklayınız. 👀](https://app.patika.dev/ruzgiiar)
+[Patika.dev Profilimi Görmek için Tıklayınız.👀](https://app.patika.dev/ruzgiiar)
 
 ---
